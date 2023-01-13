@@ -1,0 +1,18 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+
+    margin-left: 32px;
+    padding: 16px;
+    width: 500px;
+    border: 2px solid black;
+}
+
+.input {
+    width: 300px;
+}
+
+.btnAddContact {
+width: 100px;
+}
